@@ -1,2 +1,2 @@
 # PCA-Project
-A small introductory analysis for PCA that I did for a class project
+A small introductory analysis about Principal Component Analysis that I did for a class project
